@@ -4,7 +4,7 @@ base:
   target_col : charges
 
 data_source:
-  s3_source: source_data/insurance.csv
+  s3_source: notebooks/insurance_internship.csv
 
 load_data:
   raw_dataset_csv: data/raw/insurance_internship.csv
@@ -32,3 +32,12 @@ mlflow_coonfig:
   run_name: mlops
   registered_model_name: ElasticNetMedicalExpenses
   remote_server_ruti: http://127.0.0.1:5000
+
+
+
+
+
+
+
+
+

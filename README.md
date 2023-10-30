@@ -1,7 +1,7 @@
-raziq
+xerxez
 ==============================
 
-this project is for demonstration of ml n mlop orchestration
+this project is to demostrate ml and mlops orchestration
 
 Project Organization
 ------------
